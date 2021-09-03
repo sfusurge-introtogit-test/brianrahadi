@@ -8,7 +8,7 @@
 </ul>
 
 
-[<img align=“left” alt=“brianrahadi” | LinkedIn” width=“22px” src=“./linkedin.svg />[linkedin]
+[<img align=“left” alt=“brianrahadi” | LinkedIn” width=“22px” src=“./linkedin.svg />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/brian-rahadi-25bb33197/
 
