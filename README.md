@@ -29,6 +29,9 @@
 ### My Stats:
  ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianrahadi&theme=gotham&show_icons=true)
 
+<a href="https://badges.pufler.dev">
+    <img align="right" src="https://badges.pufler.dev/visits/brianrahadi/brianrahadi?color=green" alt="Visitors badge" />
+ </a>
 
 [linkedin]: https://www.linkedin.com/in/brian-rahadi-25bb33197/
 [twitter]: https://www.twitter.com/brianrahadi/
