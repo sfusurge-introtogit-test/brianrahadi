@@ -4,7 +4,7 @@
 <h3> I am currently in my second year studying Computer Science at <a href="https://langara.ca/">Langara College</a> </h3>
 
 <ul>
-  <li> Hobbies: 📚 Books and <a href="https://www.notion.so/" target="_blank"> Notion </a>
+  <li> Hobbies: 📚 Books and <a href="https://www.notion.so/" target="_blank" rel="noreferrer noopener"> Notion </a>
 </ul>
 
 
