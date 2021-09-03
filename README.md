@@ -2,7 +2,10 @@
 [<img align="left" alt="brianrahadi | LinkedIn" width="22px" src="./svg/linkedin.svg" />][linkedin]
 [<img align="left" alt="brianrahadi | Twitter" width="22px" src="./svg/twitter.svg" />][twitter]
 [<img align="left" alt="brianrahadi | Gmail" width="22px" src="./svg/gmail.svg" />][gmail]
-[<img align="left" alt="brianrahadi | Instagram" width="22px" src="./svg/gmail.svg" />][instagram]
+[<img align="left" alt="brianrahadi | Instagram" width="22px" src="./svg/instagram.svg" />][instagram]
+
+<br>
+<br>
 
 <h1> Hello, I'm Brian Rahadi 👋 </h1>
 <h2> I am in my second year studying Computer Science at Langara College (Transferring) </h2>
@@ -21,7 +24,7 @@
 [instagram]: https://www.instagram.com/brianrahadi/
 
   
-Technologies:
+Technologies: <br>
 ![](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Java-critical?style=flat-square&logo=Java)
