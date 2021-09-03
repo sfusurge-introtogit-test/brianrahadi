@@ -7,7 +7,7 @@
 <h2> I am in my second year studying Computer Science at Langara College (Transferring) </h2>
 
 <ul>
-  <li> Hobbies: Books, Notion, and Anime </li>
+  <li> Hobbies: Books, notion, and anime </li>
   <li> Goals: Improve web development skills 💻, read more books 📚, and be more fit 💪 </li>
   <li> Fun Fact: I decided to major in CS because of a virtual reality movie
 </ul>
