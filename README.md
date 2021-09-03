@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello 👋
 
+I am a computer science student currently studying at <a href="https://langara.ca/" >Langara College</a>
 <!--
 **brianrahadi/brianrahadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
