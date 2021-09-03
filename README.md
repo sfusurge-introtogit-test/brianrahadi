@@ -1,11 +1,14 @@
-### Hello 👋
-
-<h2> I'm Brian </h2>
-<h3> I am currently in my second year studying Computer Science at <a href="https://langara.ca/">Langara College</a> </h3>
+<h1> Hello, I'm Brian Rahadi 👋 </h1>
+<h2> I am in my second year studying Computer Science at Langara College (Transferring) </h2>
 
 <ul>
-  <li> Hobbies: 📚 Books and <a href="https://www.notion.so/" target="_blank" rel="noreferrer noopener"> Notion </a>
+  <li> Hobbies: Books, Notion, and Anime </li>
+  <li> Goals: Improve web development skills 💻, read more books 📚, and be more fit 💪 </li>
+  <li> Contact: <
 </ul>
+    
+ ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianrahadi&theme=dark&show_icons=true)
+
 
 
 <!--
