@@ -33,9 +33,10 @@
 
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/brianrahadi/brianrahadi?color=green" alt="Visitors badge" />
- </a>
+</a>
  
- <br>
+<br>
+
 [linkedin]: https://www.linkedin.com/in/brian-rahadi-25bb33197/
 [twitter]: https://www.twitter.com/brianrahadi/
 [gmail]: mailto:brian.rahadi@gmail.com
