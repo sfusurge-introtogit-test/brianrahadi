@@ -1,6 +1,13 @@
 ### Hello 👋
 
-I am a computer science student currently studying at <a href="https://langara.ca/" >Langara College</a>
+<h2> I'm Brian </h2>
+<h3> I am currently in my second year studying Computer Science at <a href="https://langara.ca/">Langara College</a> </h3>
+
+<ul>
+  <li> Hobbies: 📚 Books and <a href="https://www.notion.so/" target="_blank"> Notion </a>
+</ul>
+
+
 <!--
 **brianrahadi/brianrahadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
