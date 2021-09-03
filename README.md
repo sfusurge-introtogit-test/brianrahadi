@@ -1,12 +1,3 @@
-
-[<img align="left" alt="brianrahadi | LinkedIn" width="22px" src="./svg/linkedin.svg" />][linkedin]
-[<img align="left" alt="brianrahadi | Twitter" width="22px" src="./svg/twitter.svg" />][twitter]
-[<img align="left" alt="brianrahadi | Gmail" width="22px" src="./svg/gmail.svg" />][gmail]
-[<img align="left" alt="brianrahadi | Instagram" width="22px" src="./svg/instagram.svg" />][instagram]
-
-<br>
-<br>
-
 <h1> Hello, I'm Brian Rahadi 👋 </h1>
 <h2> I am in my second year studying Computer Science at Langara College (Transferring) </h2>
 
@@ -16,15 +7,13 @@
   <li> Fun Fact: I decided to major in CS because of a virtual reality movie
 </ul>
 
-
-
-[linkedin]: https://www.linkedin.com/in/brian-rahadi-25bb33197/
-[twitter]: https://www.twitter.com/brianrahadi/
-[gmail]: mailto:brian.rahadi@gmail.com
-[instagram]: https://www.instagram.com/brianrahadi/
+[<img align="left" alt="brianrahadi | LinkedIn" width="22px" src="./svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="brianrahadi | Twitter" width="22px" src="./svg/twitter.svg" />][twitter]
+[<img align="left" alt="brianrahadi | Gmail" width="22px" src="./svg/gmail.svg" />][gmail]
+[<img align="left" alt="brianrahadi | Instagram" width="22px" src="./svg/instagram.svg" />][instagram]
 
   
-Technologies: <br>
+### Technologies:
 ![](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Java-critical?style=flat-square&logo=Java)
@@ -36,21 +25,11 @@ Technologies: <br>
 ![](https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white)
 
 
+### My Stats:
  ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianrahadi&theme=gotham&show_icons=true)
 
 
-
-<!--
-**brianrahadi/brianrahadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/brian-rahadi-25bb33197/
+[twitter]: https://www.twitter.com/brianrahadi/
+[gmail]: mailto:brian.rahadi@gmail.com
+[instagram]: https://www.instagram.com/brianrahadi/
