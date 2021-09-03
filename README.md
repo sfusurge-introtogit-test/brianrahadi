@@ -12,7 +12,7 @@
   <li> Fun Fact: I decided to major in CS because of a virtual reality movie
 </ul>
 
-### Technologies:
+### Technologies
 ![](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Java-critical?style=flat-square&logo=Java)
@@ -24,16 +24,16 @@
 ![](https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white)
 
 
-### GitHub Stats:
+### GitHub Stats
  ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianrahadi&theme=gotham&show_icons=true)
+ 
+### LeetCode Stats
+ [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=brianrahadi)](https://github.com/KnlnKS/leetcode-stats)
+
 
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/brianrahadi/brianrahadi?color=green" alt="Visitors badge" />
  </a>
- 
- ### LeetCode Stats:
- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=brianrahadi)](https://github.com/KnlnKS/leetcode-stats)
-
 [linkedin]: https://www.linkedin.com/in/brian-rahadi-25bb33197/
 [twitter]: https://www.twitter.com/brianrahadi/
 [gmail]: mailto:brian.rahadi@gmail.com
