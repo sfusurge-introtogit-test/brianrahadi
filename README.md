@@ -27,8 +27,8 @@
 ### GitHub Stats
  ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianrahadi&theme=gotham&show_icons=true)
  
-### LeetCode Stats
- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=brianrahadi)](https://github.com/KnlnKS/leetcode-stats)
+<!-- ### LeetCode Stats
+ [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=brianrahadi)](https://github.com/KnlnKS/leetcode-stats) -->
 
 
 <a href="https://badges.pufler.dev">
