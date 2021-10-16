@@ -19,9 +19,9 @@
 ![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white)
-![](https://img.shields.io/badge/React-black?style=flat-square&logo=React)
-![](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)
-![](https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white)
+<!-- ![](https://img.shields.io/badge/React-black?style=flat-square&logo=React) -->
+<!-- ![](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)
+![](https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white) -->
 
 
 ### GitHub Stats
