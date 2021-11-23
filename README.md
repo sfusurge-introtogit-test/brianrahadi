@@ -4,13 +4,11 @@
 [<img align="left" alt="brianrahadi | Instagram" width="22px" src="./svg/instagram.svg" />][instagram] <br>
 
 <h1> Hello, I'm Brian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h2> I am in my second year studying Computer Science at Langara College (Transferring) </h2>
+<p> I am in my second year studying Computer Science at Langara College. In my free time, I like to read books, browse through the internet, try out new exercise (and fail), and learn anything cool in the realm of computer science. In the long term, I want to learn more about cloud development and virtual reality.
+  
+I have much more to share on my <a href="https://brianrahadi.github.io/">site</a>  </p>
 
-<ul>
-  <li> Hobbies: Books, notion, and anime </li>
-  <li> Goals: Improve web development skills 💻, read more books 📚, and be more fit 💪 </li>
-  <li> Fun Fact: I decided to major in CS because of a virtual reality movie
-</ul>
+
 
 ### Technologies
 ![](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)
@@ -20,8 +18,8 @@
 ![](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white)
 <!-- ![](https://img.shields.io/badge/React-black?style=flat-square&logo=React) -->
-<!-- ![](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)
-![](https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white) -->
+![](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)
+![](https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white)
 
 
 ### GitHub Stats
