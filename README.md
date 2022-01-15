@@ -17,7 +17,7 @@ I have much more to share on my <a href="https://brianrahadi.github.io/">site</a
 ![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white)
-<!-- ![](https://img.shields.io/badge/React-black?style=flat-square&logo=React) -->
+![](https://img.shields.io/badge/React-black?style=flat-square&logo=React)
 ![](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)
 ![](https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white)
 
@@ -36,6 +36,5 @@ I have much more to share on my <a href="https://brianrahadi.github.io/">site</a
 <br>
 
 [linkedin]: https://www.linkedin.com/in/brian-rahadi-25bb33197/
-[twitter]: https://www.twitter.com/brianrahadi/
 [gmail]: mailto:brian.rahadi@gmail.com
 [instagram]: https://www.instagram.com/brianrahadi/
