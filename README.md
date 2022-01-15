@@ -1,5 +1,4 @@
 [<img align="left" alt="brianrahadi | LinkedIn" width="22px" src="./svg/linkedin.svg" />][linkedin]
-[<img align="left" alt="brianrahadi | Twitter" width="22px" src="./svg/twitter.svg" />][twitter]
 [<img align="left" alt="brianrahadi | Gmail" width="22px" src="./svg/gmail.svg" />][gmail]
 [<img align="left" alt="brianrahadi | Instagram" width="22px" src="./svg/instagram.svg" />][instagram] <br>
 
