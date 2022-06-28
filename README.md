@@ -28,9 +28,8 @@ I have much more to share on my <a href="https://brianrahadi.github.io/">site</a
  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=brianrahadi)](https://github.com/KnlnKS/leetcode-stats) -->
 
 
-<a href="https://badges.pufler.dev">
-    <img align="right" src="https://badges.pufler.dev/visits/brianrahadi/brianrahadi?color=green" alt="Visitors badge" />
-</a>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=Hello)
+
  
 <br>
 
