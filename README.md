@@ -3,7 +3,7 @@
 [<img align="left" alt="brianrahadi | Instagram" width="22px" src="./svg/instagram.svg" />][instagram] <br>
 
 <h1> Hello, I'm Brian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
-<p> I am in my second year studying Software Systems at Simon Fraser University. In my free time, I like to read books, browse through the internet, try out new exercise (and fail), and learn anything cool in the realm of computer science. In the long term, I want to learn more about cloud development and virtual reality.
+<p> I am a third-year studying Software Systems at Simon Fraser University. In my free time, I like to read books, browse through the internet, try out new exercise (and fail), and learn anything cool in the realm of computer science. I am focusing in learning backend development currently.
   
 I have much more to share on my <a href="https://brianrahadi.github.io/">site</a>  </p>
 
