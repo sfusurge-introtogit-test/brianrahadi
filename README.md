@@ -5,7 +5,7 @@
 <h1> Hello, I'm Brian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 <p> I am a third-year studying Software Systems at Simon Fraser University. In my free time, I like to read books, browse through the internet, try out new exercise (and fail), and learn anything cool in the realm of computer science. I am focusing in learning backend development currently.
   
-My personal website -> <a href="https://brianrahadi.github.io/">site</a>  </p>
+I share stories and guides on <a href="https://brianrahadi.com/">brianrahadi.com</a>  </p>
 
 
 
