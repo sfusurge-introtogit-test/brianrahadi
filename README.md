@@ -5,7 +5,7 @@
 <h1> Hello, I'm Brian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 <p> I am a third-year studying Software Systems at Simon Fraser University. In my free time, I like to read books, browse through the internet, try out new exercise (and fail), and learn anything cool in the realm of computer science. I am focusing in learning backend development currently.
   
-I have much more to share on my <a href="https://brianrahadi.github.io/">site</a>  </p>
+My personal website -> <a href="https://brianrahadi.github.io/">site</a>  </p>
 
 
 
@@ -24,9 +24,6 @@ I have much more to share on my <a href="https://brianrahadi.github.io/">site</a
 ### GitHub Stats
  ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianrahadi&theme=gotham&show_icons=true)
  
-<!-- ### LeetCode Stats
- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=brianrahadi)](https://github.com/KnlnKS/leetcode-stats) -->
-
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=Hello)
 
