@@ -6,7 +6,6 @@
 <a href="https://www.sfu.ca/computing/prospective-students/undergraduate-students/programs/degree-programs/softwaresystems.html"> Software Systems </a> at <a href="https://sfu.ca/">SFU</a>. Computer Science TA at <a href="https://langara.ca/">Langara College</a>. <br>
 Experienced with building websites with various frameworks and libraries such as Next.js, React.js, and Angular. <br>
 <br/>  
-  <br/>
 I share stories and guides on <a href="https://brianrahadi.com/">brianrahadi.com</a>
 
 
