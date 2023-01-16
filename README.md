@@ -3,7 +3,7 @@
 [<img align="left" alt="brianrahadi | Instagram" width="22px" src="./svg/instagram.svg" />][instagram] <br/>
 
 <h1> Hello, I'm Brian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
-<a href="https://www.sfu.ca/computing/prospective-students/undergraduate-students/programs/degree-programs/softwaresystems.html)"> Software Systems </a> at <a href="https://sfu.ca/">SFU</a>. Computer Science TA at <a href="https://langara.ca/">Langara College</a>. <br>
+<a href="https://www.sfu.ca/computing/prospective-students/undergraduate-students/programs/degree-programs/softwaresystems.html"> Software Systems </a> at <a href="https://sfu.ca/">SFU</a>. Computer Science TA at <a href="https://langara.ca/">Langara College</a>. <br>
 Experienced with building websites with various frameworks and libraries such as Next.js, React.js, and Angular. <br>
 In my free time, I like to read books, try out new exercise (and fail), and learn anything cool in the realm of computer science.
   
