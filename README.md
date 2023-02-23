@@ -45,9 +45,7 @@ I share stories and guides on <a href="https://brianrahadi.com/">brianrahadi.com
 <!-- ### GitHub Stats -->
 <!--  ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianrahadi&theme=gotham&show_icons=true) -->
  
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=Hello)
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=brianrahadi&show_icons=true&theme=transparent" alt="brianrahadi's github stats"  /></p>
  
 <br>
 
