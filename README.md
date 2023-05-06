@@ -8,7 +8,7 @@ Experienced with building websites with various frameworks and libraries such as
 I share stories and guides on <a href="https://brianrahadi.com/">brianrahadi.com</a>
 
 
-### Languages
+<!-- ### Languages
 ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white)
@@ -41,7 +41,7 @@ I share stories and guides on <a href="https://brianrahadi.com/">brianrahadi.com
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
+ -->
 <!-- ### GitHub Stats -->
 <!--  ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianrahadi&theme=gotham&show_icons=true) -->
  
