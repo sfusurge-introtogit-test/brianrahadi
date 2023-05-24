@@ -1,7 +1,7 @@
 
 > Thriving, learning, and probably sleeping
 
-Gardening at [brianrahadi.com](https://www.brianrahadi.com/)
+[brianrahadi.com](https://www.brianrahadi.com/)
 
 <!-- [<img align="left" alt="brianrahadi | LinkedIn" width="22px" src="./svg/linkedin.svg" />][linkedin]
 [<img align="left" alt="brianrahadi | Gmail" width="22px" src="./svg/gmail.svg" />][gmail]
