@@ -1,14 +1,19 @@
-[<img align="left" alt="brianrahadi | LinkedIn" width="22px" src="./svg/linkedin.svg" />][linkedin]
+
+> Thriving, learning, and probably sleeping
+
+Gardening at [brianrahadi.com](https://www.brianrahadi.com/)
+
+<!-- [<img align="left" alt="brianrahadi | LinkedIn" width="22px" src="./svg/linkedin.svg" />][linkedin]
 [<img align="left" alt="brianrahadi | Gmail" width="22px" src="./svg/gmail.svg" />][gmail]
 
 <h1> Hello, I'm Brian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 <a href="https://www.sfu.ca/computing/prospective-students/undergraduate-students/programs/degree-programs/softwaresystems.html"> Software Systems </a> at <a href="https://sfu.ca/">SFU</a>. Computer Science TA at <a href="https://langara.ca/">Langara College</a>. <br>
 Experienced with building websites with various frameworks and libraries such as Next.js, React.js, and Angular. <br>
 <br/>  
-I share stories and guides on <a href="https://brianrahadi.com/">brianrahadi.com</a>
+I share stories and guides on <a href="https://brianrahadi.com/">brianrahadi.com</a> -->
 
 
-### Languages
+<!-- ### Languages
 ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white)
@@ -39,16 +44,16 @@ I share stories and guides on <a href="https://brianrahadi.com/">brianrahadi.com
 ![](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 
 
 <!-- ### GitHub Stats -->
 <!--  ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianrahadi&theme=gotham&show_icons=true) -->
- <br/>
+<!--  <br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=brianrahadi&show_icons=true&theme=transparent" alt="brianrahadi's github stats"  /></p>
  
 <br>
 
 [linkedin]: https://www.linkedin.com/in/brian-rahadi-25bb33197/
 [gmail]: mailto:brian.rahadi@gmail.com
-[instagram]: https://www.instagram.com/brianrahadi/
+[instagram]: https://www.instagram.com/brianrahadi/ -->
