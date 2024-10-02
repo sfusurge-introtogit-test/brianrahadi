@@ -1,5 +1,5 @@
 
-> thriving, learning, and probably sleeping
+> thriving, learning, and probably sleeping and eating
 
 [brianrahadi.com](https://www.brianrahadi.com/)
 
